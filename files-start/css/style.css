@@ -1,0 +1,23 @@
+* {
+    background-color: green;
+}
+
+header {
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    padding: 20px;
+    border: dashed 5px red;
+
+}
+
+main {
+    background-color: lightgreen;
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    padding: 20px;
+}
+
